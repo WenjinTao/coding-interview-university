@@ -30,6 +30,7 @@
     - adjacency matrix
     - adjacency list
     - traversals: BFS, DFS
+- [Machine Lerning](#machine-learning)
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
@@ -536,6 +537,10 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] check for bipartite graph
 
 </details>
+
+## Machine Lerning
+- [Machine Lerning in Numpy](https://github.com/ddbourgin/numpy-ml)
+
 
 ## Even More Knowledge
 
