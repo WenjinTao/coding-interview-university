@@ -53,6 +53,8 @@
 - [Coding exercises/challenges](#coding-exerciseschallenges)
 
 ## The Daily Plan
+<details>
+<summary>The Daily Plan</summary>
 
 Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
 
@@ -81,6 +83,7 @@ You can see my code here:
 You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
+</details>
 
 ## Prerequisite Knowledge
 
