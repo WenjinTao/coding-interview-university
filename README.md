@@ -1,4 +1,4 @@
-# Coding Interview University
+# Coding Loading
 
 ## Table of Contents
 
