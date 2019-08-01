@@ -539,7 +539,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 </details>
 
 ## Machine Lerning
-- [Machine Lerning in Numpy](https://github.com/ddbourgin/numpy-ml)
+- [Machine Learning in Numpy](https://github.com/ddbourgin/numpy-ml)
 
 
 ## Even More Knowledge
