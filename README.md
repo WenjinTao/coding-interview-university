@@ -330,9 +330,6 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Data Structures
 
-<details>
-<summary>Data Structures</summary>
-
 - ### Arrays
     - Implement an automatically resizing vector.
     - [ ] Description:
@@ -458,7 +455,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - get(key)
         - remove(key)
 
-</details>
+
 
 ## More Knowledge
 
