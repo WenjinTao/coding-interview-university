@@ -538,6 +538,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Machine Learning
 - [Machine Learning in Numpy](https://github.com/ddbourgin/numpy-ml)
+- [STAT 479: Machine Learning (FS 2018) at University Wisconsin-Madison](https://github.com/rasbt/stat479-machine-learning-fs18)
 
 
 ## Even More Knowledge
